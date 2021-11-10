@@ -63,4 +63,4 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped src="../../assets/css/pages/post/confirm.css"></style>
